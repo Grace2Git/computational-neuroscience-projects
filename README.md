@@ -30,7 +30,7 @@ Tools
 Status
 These projects are actively being expanded as part of an independent study in computational neuroscience.
 
-Future extensions:
+Extensions:
 - F-I curve analysis
 - Parameter sweeps (tau, resistance, threshold)
 - Phase-plane visualization of neuron dynamics
